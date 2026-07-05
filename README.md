@@ -150,7 +150,7 @@ API docs available at `http://localhost:8000/docs` once running.
 
 ## Author
 
-Faiza Bagban — Final Year AIML
+Faiza Bagban
 
 ---
 *Built as an end-to-end demonstration of the full ML engineering lifecycle: EDA → feature engineering → model comparison/tuning → explainability → serving → containerization → CI → deployment.*
